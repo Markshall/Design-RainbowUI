@@ -7,7 +7,6 @@ Design by Adrian Goia (https://dribbble.com/shots/3254618-Landing-Page)
 1. CSS animations
 2. Mobile responsive
 3. FontAwesome
-4. jQuery mobile navigation toggle
 
 ## Previews
 
